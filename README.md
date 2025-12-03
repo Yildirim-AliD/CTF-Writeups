@@ -1,6 +1,6 @@
 # CTF-Writeups
 
-# 🛡️ My Cybersecurity & CTF Journey
+# 🛡️CTF Journey
 
 Welcome to my personal repository! 
 Here, I document my solutions, learnings, and write-ups for various Capture The Flag (CTF) challenges and cybersecurity labs (Hackviser, TryHackMe, etc.).
@@ -13,7 +13,7 @@ All content in this repository is for **educational purposes only**.
 
 ---
 
-# 🛡️ Siber Güvenlik & CTF Yolculuğum
+# 🛡️ CTF Yolculuğum
 
 Repoma hoş geldiniz! 
 Burada, CTF yarışmaları ve siber güvenlik laboratuvarları (Hackviser, TryHackMe vb.) için hazırladığım çözümleri, öğrendiklerimi ve teknik raporlarımı belgeliyorum.
