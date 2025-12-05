@@ -46,7 +46,7 @@ Bu ipucu doğrultusunda **root:root** bilgileri denenmiş ve sisteme başarılı
 
 ---
 
-## 📸 Kanıtlar (Screenshots)
+## 📸 Screenshots
 
 **Aşama 1: Nmap Taraması ve Servis Tespiti**
 ![Nmap Taraması](screenshot/1.png)
